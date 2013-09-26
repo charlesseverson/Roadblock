@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/alien.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Galaga.cs" Line="35" Column="6" />
+      <File FileName="Assets/Scripts/ball2.cs" Line="8" Column="2" />
+      <File FileName="Assets/Scripts/alien.cs" Line="5" Column="3" />
+      <File FileName="Assets/Scripts/mouse.js" Line="7" Column="3" />
+      <File FileName="Assets/Scripts/ball.js" Line="11" Column="22" />
+      <File FileName="Assets/Scripts/TitleGUI.js" Line="18" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
